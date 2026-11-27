@@ -1,0 +1,27 @@
+{
+  "arquivo_original": "WAR_MP.DIR",
+  "tamanho_original": 64978891,
+  "tamanho_fragmento": 26214400,
+  "numero_fragmentos": 3,
+  "fragmentos": [
+    {
+      "numero": 1,
+      "nome": "WAR_MP1.DIR",
+      "tamanho": 26214400,
+      "hash": "20e0a3fd49035671"
+    },
+    {
+      "numero": 2,
+      "nome": "WAR_MP2.DIR",
+      "tamanho": 26214400,
+      "hash": "d3e2ee95ea568fc1"
+    },
+    {
+      "numero": 3,
+      "nome": "WAR_MP3.DIR",
+      "tamanho": 12550091,
+      "hash": "c621aa52406b6be3"
+    }
+  ],
+  "hash_original": "90f06cfdd25bc90783128a7e2bcba92011e85c2b77f1ee66b84d81d3f63ea14e"
+}
