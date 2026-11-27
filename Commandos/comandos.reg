@@ -1,0 +1,11 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Pyro]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Pyro\Commandos]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Pyro\Commandos\1.0]
+"DirCd"="."
+"DirIns"="."
+"Type"=dword:00000003
+
