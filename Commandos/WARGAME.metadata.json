@@ -1,0 +1,27 @@
+{
+  "arquivo_original": "WARGAME.DIR",
+  "tamanho_original": 55864347,
+  "tamanho_fragmento": 26214400,
+  "numero_fragmentos": 3,
+  "fragmentos": [
+    {
+      "numero": 1,
+      "nome": "WARGAME1.DIR",
+      "tamanho": 26214400,
+      "hash": "8f05cb34095bdcd3"
+    },
+    {
+      "numero": 2,
+      "nome": "WARGAME2.DIR",
+      "tamanho": 26214400,
+      "hash": "1a03f19ec5ea7467"
+    },
+    {
+      "numero": 3,
+      "nome": "WARGAME3.DIR",
+      "tamanho": 3435547,
+      "hash": "85f2eff7fba69b81"
+    }
+  ],
+  "hash_original": "7b5bbb64fe1da18e740ae5d9eec4d9dcbfce47f3e2ec1d7016d5d5b46b2bc6d9"
+}
